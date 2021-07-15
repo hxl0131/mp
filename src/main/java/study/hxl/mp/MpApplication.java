@@ -16,6 +16,7 @@ public class MpApplication {
             System.out.println(name);
         }
         System.out.println("haha");
+        System.out.println("hotfix test1");
     }
 
 }
