@@ -293,4 +293,9 @@ class MpApplicationTests {
         
     }
     
+    @Test
+    public void testhaha(){
+        System.out.println("haha");
+    }
+    
 }

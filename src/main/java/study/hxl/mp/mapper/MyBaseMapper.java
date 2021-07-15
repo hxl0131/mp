@@ -12,6 +12,6 @@ import java.util.List;
  */
 public interface MyBaseMapper<T> extends BaseMapper<T> {
     
-
+    List<User> findAll();
     
 }
