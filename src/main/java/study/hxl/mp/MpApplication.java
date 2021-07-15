@@ -19,6 +19,7 @@ public class MpApplication {
         System.out.println("master test1");
         System.out.println("hotfix test1");
         System.out.println("test push");
+        System.out.println("test pull");
     }
 
 }
