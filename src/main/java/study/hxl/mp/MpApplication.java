@@ -15,6 +15,7 @@ public class MpApplication {
         for (String name : beanDefinitionNames) {
             System.out.println(name);
         }
+        System.out.println("haha");
     }
 
 }
